@@ -6,6 +6,7 @@ If link is not given answer to go to manual-chegg-uuid to get the uuid for the l
 
 *DO NOT PASTE YOUR LINK DIRECTLY WITHOUT SLASH COMMAND:Your message will not go through and you will need to wait 20 minutes to try again.*
 
+
 # Get Chegg Uuid(Manual)
 Step 1: Copy the below code from the link
 
@@ -14,17 +15,19 @@ https://github.com/blackmarketfour/Tutorials/blob/main/code/uuidget.js
 Step 2: Go to developer console and paste while in chegg link
 ![Example Gif:](https://github.com/blackmarketfour/Tutorials/blob/main/Images/chegguuid.gif?raw=true)
 
+
 # Get Chegg Uuid(Auto)
 Step 1: Install "Tampermonkey" extension to browser(https://www.tampermonkey.net/)
 
 Step 2: Go to https://github.com/blackmarketfour/Tutorials/blob/main/code/Chegg%20Uuid.user.js and click the button that says "Raw"
 
 Step 3: After being redirected click the "install" button. After that go to a chegg question(non textbook) and you will have the uuid auto copied to clipboard!
-
+![Example Gif:](https://github.com/blackmarketfour/Tutorials/blob/main/Images/autochegguuid.gif?raw=true)
 
 
 # Get Coursehero Unlocks
-Tutorials
+![Example Gif:](https://github.com/blackmarketfour/Tutorials/blob/main/Images/courseheroanswer.gif?raw=true)
+
 
 # Premium Benefits
 Why should I buy *Ch🥚* from you and not the site?
