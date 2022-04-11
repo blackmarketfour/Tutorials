@@ -8,32 +8,13 @@ If link is not given answer to go to manual-chegg-uuid to get the uuid for the l
 *DO NOT PASTE YOUR LINK DIRECTLY WITHOUT SLASH COMMAND:Your message will not go through and you will need to wait 20 minutes to try again.*
 
 # Get Chegg Uuid(Manual)
-Step 1: Copy the below code:
-*var element = document.scripts;
-for (let i = 0; i < element.length; i++)
-{
-    var check = element[i].text
-    var data = {
-        check: check
-    };
-    try
-    {
-        var json = JSON.stringify(data).replaceAll("\\", "");
-        var j = json.match(new RegExp(`uuid` + "(.*)" + `"body":`));
-        var remove = j[1].replaceAll("\\", "").replaceAll(":", "").replaceAll("\"", "").replaceAll(",", "")
-        console.log(remove)
-    }
-    catch (err)
-    {
-        //pass
-    }
-}*
-Step 2: Go to developer console and paste while in chegg link:
-
+Step 1: Copy the below code from the link
+https://github.com/blackmarketfour/Tutorials/blob/main/code/uuidget.js
+Step 2: Go to developer console and paste while in chegg link
+![Example Gif:](https://github.com/blackmarketfour/Tutorials/blob/main/Images/chegguuid.gif?raw=true)
 
 # Get Chegg Uuid(Auto)
 Step 1: Install "Tampermonkey" extension to browser(https://www.tampermonkey.net/)
-![Example Gif:](https://github.com/blackmarketfour/Tutorials/blob/main/Images/chegguuid.gif?raw=true)
 
 # Get Coursehero Unlocks
 Tutorials
