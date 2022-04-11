@@ -1,6 +1,6 @@
 # Get Chegg Answers
-Tutorials
 Use the slash command /chegg press enter then input your link in the link: field.
+
 If link is not given answer to go to manual-chegg-uuid to get the uuid for the link.
 ![Example Gif:](https://github.com/blackmarketfour/Tutorials/blob/main/Images/chegganswer.gif?raw=true)
 
