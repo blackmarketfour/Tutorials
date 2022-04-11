@@ -2,8 +2,9 @@
 Tutorials
 Use the slash command /chegg press enter then input your link in the link: field.
 If link is not given answer to go to manual-chegg-uuid to get the uuid for the link.
-Example Gif:Hover mouse over gif to play
-(https://github.com/blackmarketfour/Tutorials/blob/main/Images/chegganswer.gif?raw=true)
+
+![Example Gif:](https://github.com/blackmarketfour/Tutorials/blob/main/Images/chegganswer.gif?raw=true)
+
 *DO NOT PASTE YOUR LINK DIRECTLY WITHOUT SLASH COMMAND:Your message will not go through and you will need to wait 20 minutes to try again.*
 
 # Get Chegg Uuid(Manual)
