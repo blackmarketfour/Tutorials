@@ -17,6 +17,12 @@ Step 2: Go to developer console and paste while in chegg link
 # Get Chegg Uuid(Auto)
 Step 1: Install "Tampermonkey" extension to browser(https://www.tampermonkey.net/)
 
+Step 2: Go to https://github.com/blackmarketfour/Tutorials/blob/main/code/Chegg%20Uuid.user.js and click the button that says "Raw"
+
+Step 3: After being redirected click the "install" button. After that go to a chegg question(non textbook) and you will have the uuid auto copied to clipboard!
+
+
+
 # Get Coursehero Unlocks
 Tutorials
 
