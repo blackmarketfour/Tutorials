@@ -41,4 +41,5 @@ Meaning if you buy from them you are risking academic dishonesty against you for
 3.*Ch🥚* also has a limit to the number of devices and questions you can view. If you access the site at more than one ip or device your account will be disabled. This limit is bypassed with our bots.
 
 *Why is this not fully free!!?*
+
 4.If you can find a working free bot then go right ahead. Free bots have been gone for long over a year ever since security patches for the site improved. The only sustainable way to have prolonged bots that benefit everyone is by collecting money for the number of accounts that are needed.
