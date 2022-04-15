@@ -43,3 +43,9 @@ Meaning if you buy from them you are risking academic dishonesty against you for
 *Why is this not fully free!!?*
 
 4.If you can find a working free bot then go right ahead. Free bots have been gone for long over a year ever since security patches for the site improved. The only sustainable way to have prolonged bots that benefit everyone is by collecting money for the number of accounts that are needed.
+
+# Backup Link & Chat
+JOIN AND BOOKMARK THE BELOW LINK TO CHAT AND GET DISCORD LINK:
+
+https://matrix.to/#/#chegg-solutions:matrix.org
+![Example Gif:](https://github.com/blackmarketfour/Tutorials/blob/main/Images/joinmatrixserver.gif?raw=true)
