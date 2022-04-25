@@ -44,6 +44,18 @@ Meaning if you buy from them you are risking academic dishonesty against you for
 
 4.If you can find a working free bot then go right ahead. Free bots have been gone for long over a year ever since security patches for the site improved. The only sustainable way to have prolonged bots that benefit everyone is by collecting money for the number of accounts that are needed.
 
+#Purchase Premium
+Rather than making premium purchased you can now obtain unlocks with invites.
+---------------------------------
+
+1.Create invite link
+
+2.Invite members
+
+3.In #invites check your invites by doing !invites
+
+4.After you get 15 invites your rank will automatically be given when using the "!invites command
+
 # Backup Link & Chat
 JOIN AND BOOKMARK THE BELOW LINK TO CHAT AND GET DISCORD LINK: *Does not require phone verification*
 
